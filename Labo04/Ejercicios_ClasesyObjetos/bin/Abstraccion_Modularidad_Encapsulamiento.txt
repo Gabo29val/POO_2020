@@ -1,0 +1,11 @@
+Cuál es la diferencia entre abstracción, modularidad y encapsulamiento?
+
+La abstracción consiste en identificar lo principal de un objeto, es decir
+se debe centrar en lo que hace y no en el cómo lo hace.
+
+La modularidad es descomponer un problema en partes más pequeñas e independientes
+llamados módulos.
+
+El encapsulamiento consiste en ocultar información de un objeto para que no pueda
+ser modificado directamente, sino a través de sus métodos. Los atributos se ponen
+de forma privada y los métodos de forma pública.
